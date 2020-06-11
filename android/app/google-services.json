@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976018486416",
+    "firebase_url": "https://glucolives.firebaseio.com",
+    "project_id": "glucolives",
+    "storage_bucket": "glucolives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976018486416:android:db01e3c1ae7fd2a306d415",
+        "android_client_info": {
+          "package_name": "com.example.glucolives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976018486416-03pot14ov61umoo6dm9ecg9bfgan8p1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glucolives",
+            "certificate_hash": "aba30697809433d0b8fc579f92f97eaecea64fa6"
+          }
+        },
+        {
+          "client_id": "976018486416-9sku09qn7fl5npbe79lcgf71esblnrfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBg_WyNQGm0qmicWAai4WPuKOwscLV0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976018486416-9sku09qn7fl5npbe79lcgf71esblnrfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
